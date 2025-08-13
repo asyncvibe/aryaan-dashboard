@@ -2,17 +2,20 @@
 
 A modern, responsive React dashboard built with Chakra UI - perfect for showcasing full-stack development skills in your portfolio.
 
-![Aryaan Dashboard](https://i.ibb.co/fdyTwz1/introduction-image-2.png)
+<!-- Dashboard Screenshot - Replace with updated image showing Aryaan Dashboard branding -->
+<!-- ![Aryaan Dashboard](your-new-image-url-here) -->
 
 ## 🚀 Features
 
 ### **Modern Design & UX**
+
 - **Responsive Design**: Works perfectly on desktop, tablet, and mobile devices
 - **Dark/Light Mode**: Toggle between beautiful dark and light themes
 - **Modern UI**: Built with Chakra UI for a professional, polished look
 - **Smooth Animations**: Framer Motion powered transitions and interactions
 
 ### **Dashboard Components**
+
 - **Analytics Dashboard**: Real-time charts and statistics
 - **User Management**: Complete user profile and settings
 - **Data Tables**: Advanced table components with sorting and filtering
@@ -21,6 +24,7 @@ A modern, responsive React dashboard built with Chakra UI - perfect for showcasi
 - **Authentication**: Secure sign-in and registration flows
 
 ### **Technical Excellence**
+
 - **React 19**: Latest React features and performance optimizations
 - **Chakra UI 2.6**: Modern component library with excellent accessibility
 - **TypeScript Ready**: Full TypeScript support for type safety
@@ -40,23 +44,27 @@ A modern, responsive React dashboard built with Chakra UI - perfect for showcasi
 ## 📦 Installation
 
 ### Prerequisites
+
 - Node.js (v16 or higher)
 - npm or yarn
 
 ### Quick Start
 
 1. **Clone the repository**
+
    ```bash
    git clone https://github.com/asyncvibe/aryaan-dashboard.git
    cd aryaan-dashboard
    ```
 
 2. **Install dependencies**
+
    ```bash
    npm install --force
    ```
 
 3. **Start the development server**
+
    ```bash
    npm start
    ```
@@ -78,30 +86,35 @@ This dashboard is specifically designed for developers to showcase their skills 
 ## 📱 Pages & Features
 
 ### **Main Dashboard**
+
 - Real-time analytics and metrics
 - Interactive charts and graphs
 - Quick action buttons
 - Recent activity feed
 
 ### **User Profile**
+
 - Personal information management
 - Profile picture and cover photo
 - Social media statistics
 - Project showcase
 
 ### **Data Tables**
+
 - Advanced table components
 - Sorting and filtering
 - Pagination
 - Export functionality
 
 ### **NFT Marketplace**
+
 - Digital asset showcase
 - Transaction history
 - Creator profiles
 - Trending collections
 
 ### **Authentication**
+
 - Secure login system
 - User registration
 - Password recovery
@@ -110,12 +123,14 @@ This dashboard is specifically designed for developers to showcase their skills 
 ## 🎨 Customization
 
 ### **Branding**
+
 - Easy to customize colors and themes
 - Replace logos and branding elements
 - Modify typography and spacing
 - Add your own components
 
 ### **Content**
+
 - Update sample data with your projects
 - Replace placeholder images
 - Modify navigation structure
@@ -124,11 +139,13 @@ This dashboard is specifically designed for developers to showcase their skills 
 ## 🚀 Deployment
 
 ### **Build for Production**
+
 ```bash
 npm run build
 ```
 
 ### **Deploy Options**
+
 - **Vercel**: Perfect for React apps with automatic deployments
 - **Netlify**: Great for static site hosting
 - **GitHub Pages**: Free hosting for portfolio projects
@@ -141,6 +158,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Developer
 
 **Aryaan Developer**
+
 - **Portfolio**: [GitHub](https://github.com/aryaan)
 - **Email**: hello@aryaan.dev
 - **Skills**: Full Stack Development, React, Node.js, UI/UX Design
@@ -157,6 +175,7 @@ This is a portfolio project, but if you find any bugs or have suggestions for im
 ## 📞 Support
 
 For questions or support:
+
 - **Email**: hello@aryaan.dev
 - **GitHub Issues**: [Create an issue](https://github.com/asyncvibe/aryaan-dashboard/issues)
 
@@ -166,4 +185,4 @@ For questions or support:
 
 ---
 
-*Built with ❤️ by Aryaan Developer*
+_Built with ❤️ by Aryaan Developer_
