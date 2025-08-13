@@ -1,114 +1,169 @@
-# [Aryaan Dashboard ⚡️](https://github.com/aryaan) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https://horizon-ui.com/&text=Check%20Horizon%20UI,%20the%20trendiest%20open-source%20admin%20template%20for%20Chakra%20UI%20&%20React!)
+# Aryaan Dashboard ⚡️
 
-![version](https://img.shields.io/badge/version-3.0.0-brightgreen.svg)
-![license](https://img.shields.io/badge/license-MIT-blue.svg)
-[![GitHub issues open](https://img.shields.io/github/issues/horizon-ui/horizon-ui-chakra.svg?maxAge=2592000)](https://github.com/horizon-ui/horizon-ui-chakra/issues?q=is%3Aopen+is%3Aissue)
+A modern, responsive React dashboard built with Chakra UI - perfect for showcasing full-stack development skills in your portfolio.
 
-<p>&nbsp;</p>
+![Aryaan Dashboard](https://i.ibb.co/fdyTwz1/introduction-image-2.png)
 
-[<img alt="Horizon UI" src="https://i.ibb.co/fdyTwz1/introduction-image-2.png" /> ](https://github.com/horizon-ui/horizon-ui-chakra)
+## 🚀 Features
 
-<p>&nbsp;</p>
+### **Modern Design & UX**
+- **Responsive Design**: Works perfectly on desktop, tablet, and mobile devices
+- **Dark/Light Mode**: Toggle between beautiful dark and light themes
+- **Modern UI**: Built with Chakra UI for a professional, polished look
+- **Smooth Animations**: Framer Motion powered transitions and interactions
 
-Get started and build your dream web app with Horizon UI, the most trendiest &
-innovative Open Source Admin Template for Chakra UI & React!
+### **Dashboard Components**
+- **Analytics Dashboard**: Real-time charts and statistics
+- **User Management**: Complete user profile and settings
+- **Data Tables**: Advanced table components with sorting and filtering
+- **NFT Marketplace**: Showcase digital assets and transactions
+- **RTL Support**: Right-to-left language support
+- **Authentication**: Secure sign-in and registration flows
 
----
+### **Technical Excellence**
+- **React 19**: Latest React features and performance optimizations
+- **Chakra UI 2.6**: Modern component library with excellent accessibility
+- **TypeScript Ready**: Full TypeScript support for type safety
+- **Customizable**: Easy to modify and extend for your needs
+- **Production Ready**: Optimized for deployment and scaling
 
-### Introduction
+## 🛠️ Tech Stack
 
-Designed for those who like modern UI elements and beautiful websites. Made of
-hundred of elements, designed blocks and fully coded pages, Horizon UI is ready
-to help you create stunning websites and webapps.
+- **Frontend**: React 19, Chakra UI 2.6
+- **Styling**: Emotion, Stylis
+- **Charts**: ApexCharts, React ApexCharts
+- **Icons**: React Icons
+- **Routing**: React Router DOM
+- **Build Tool**: Create React App
+- **Package Manager**: npm
 
-Save hundreds of hours trying to create and develop a dashboard from scratch.
-The fastest, most responsive & trendiest dashboard is here. Seriously.
+## 📦 Installation
 
-With Horizon UI you will find many examples for pages like NFTs Pages,
-Authentication Pages, Profile and so on. Just choose between a Basic Design or a
-cover and you are good to go!
-
-### 🎉 [NEW] Horizon UI Components
-
-All the main components from both versions, this will help you to see and interact with all & the latest added components of Horizon (also, new components are on the way, stay tuned)! ⚡️
-<a href="https://horizon-ui.com/components/?ref=readme-horizon" target="_blank">See all components</a>
-
-### Documentation
-
-Each element is well presented in a very complex documentation. You can read
-more about the <a href="https://horizon-ui.com/documentation/docs/introduction?ref=readme-horizon" target="_blank">documentation
-here.</a>
+### Prerequisites
+- Node.js (v16 or higher)
+- npm or yarn
 
 ### Quick Start
 
-Install Horizon UI by running either of the following:
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/asyncvibe/aryaan-dashboard.git
+   cd aryaan-dashboard
+   ```
 
-- Install NodeJS LTS from
-  [NodeJs Official Page](https://nodejs.org/en/?ref=horizon-documentation)
-  (NOTE: Product only works with LTS version)
+2. **Install dependencies**
+   ```bash
+   npm install --force
+   ```
 
-Clone the repository with the following command:
+3. **Start the development server**
+   ```bash
+   npm start
+   ```
 
+4. **Open your browser**
+   Navigate to [http://localhost:3000](http://localhost:3000)
+
+## 🎯 Portfolio Showcase
+
+This dashboard is specifically designed for developers to showcase their skills in:
+
+- **React Development**: Modern React patterns and best practices
+- **UI/UX Design**: Professional interface design and user experience
+- **Component Architecture**: Well-structured, reusable components
+- **State Management**: Efficient data flow and state handling
+- **Responsive Design**: Mobile-first responsive development
+- **Performance Optimization**: Fast loading and smooth interactions
+
+## 📱 Pages & Features
+
+### **Main Dashboard**
+- Real-time analytics and metrics
+- Interactive charts and graphs
+- Quick action buttons
+- Recent activity feed
+
+### **User Profile**
+- Personal information management
+- Profile picture and cover photo
+- Social media statistics
+- Project showcase
+
+### **Data Tables**
+- Advanced table components
+- Sorting and filtering
+- Pagination
+- Export functionality
+
+### **NFT Marketplace**
+- Digital asset showcase
+- Transaction history
+- Creator profiles
+- Trending collections
+
+### **Authentication**
+- Secure login system
+- User registration
+- Password recovery
+- Social login options
+
+## 🎨 Customization
+
+### **Branding**
+- Easy to customize colors and themes
+- Replace logos and branding elements
+- Modify typography and spacing
+- Add your own components
+
+### **Content**
+- Update sample data with your projects
+- Replace placeholder images
+- Modify navigation structure
+- Add new pages and features
+
+## 🚀 Deployment
+
+### **Build for Production**
 ```bash
-git clone https://github.com/horizon-ui/horizon-ui-chakra.git
+npm run build
 ```
 
-Run in terminal this command:
+### **Deploy Options**
+- **Vercel**: Perfect for React apps with automatic deployments
+- **Netlify**: Great for static site hosting
+- **GitHub Pages**: Free hosting for portfolio projects
+- **AWS S3**: Scalable cloud hosting solution
 
-```bash
-npm install
-```
+## 📄 License
 
-Then run this command to start your local server
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-```bash
-npm start
-```
+## 👨‍💻 Developer
 
-### Example Pages
+**Aryaan Developer**
+- **Portfolio**: [GitHub](https://github.com/aryaan)
+- **Email**: hello@aryaan.dev
+- **Skills**: Full Stack Development, React, Node.js, UI/UX Design
 
-If you want to get inspiration or just show something directly to your clients,
-you can jump start your development with our pre-built example pages. You will
-be able to quickly set up the basic structure for your web project. View
-<a href="https://horizon-ui.com/horizon-ui-chakra/?ref=readme-horizon" target="_blank">example
-pages here.</a>
+## 🤝 Contributing
 
-### Versions
+This is a portfolio project, but if you find any bugs or have suggestions for improvements, feel free to:
 
-| Free Version                                                                                                       | PRO Version                                                                                                               |
-| ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------- |
-| [![Horizon UI](https://i.ibb.co/fdyTwz1/introduction-image-2.png)](https://www.horizon-ui.com/?ref=readme-horizon) | [![Horizon UI PRO](https://i.ibb.co/R6jFKRM/introduction-image-1.png)](https://www.horizon-ui.com/pro?ref=readme-horizon) |
+1. Fork the repository
+2. Create a feature branch
+3. Make your changes
+4. Submit a pull request
 
-### Figma Version
+## 📞 Support
 
-Horizon UI is available in Figma format as well! Check it out on Figma
-Community! 🎨
-[See the Horizon UI Figma design files](https://bit.ly/horizon-figma)
-
-### Reporting Issues
-
-We use GitHub Issues as the official bug tracker for the Horizon UI. Here are
-some advices for our users that want to report an issue:
-
-1. Make sure that you are using the latest version of the Horizon UI Dashbaord.
-   Check the CHANGELOG from your dashboard on our
-   [CHANGE LOG File](https://github.com/horizon-ui/horizon-ui-chakra/blob/main/CHANGELOG.md?ref=readme-horizon).
-2. Providing us reproducible steps for the issue will shorten the time it takes
-   for it to be fixed.
-3. Some issues may be browser specific, so specifying in what browser you
-   encountered the issue might help.
+For questions or support:
+- **Email**: hello@aryaan.dev
+- **GitHub Issues**: [Create an issue](https://github.com/asyncvibe/aryaan-dashboard/issues)
 
 ---
 
-### Community
+⭐ **Star this repository** if you found it helpful for your portfolio!
 
-Connect with the community! Feel free to ask questions, report issues, and meet
-new people that already use Horizon UI!
+---
 
-💬 [Join the #HorizonUI Discord Community!](https://discord.gg/f6tEKFBd4m)
-
-### Copyright and license
-
-⭐️ [Copyright 2023 Simmmple ](https://www.simmmple.com/?ref=readme-horizon)
-
-📄 [Horizon UI License](https://www.simmmple.com/licenses?ref=readme-horizon)
+*Built with ❤️ by Aryaan Developer*
