@@ -143,7 +143,7 @@ export default function HeaderLinks(props) {
               borderRadius="8px"
               mb="10px"
             >
-              <ItemContent info="Horizon UI Dashboard PRO" />
+              <ItemContent info="Aryaan Dashboard Pro" />
             </MenuItem>
             <MenuItem
               _hover={{ bg: 'none' }}
@@ -182,15 +182,12 @@ export default function HeaderLinks(props) {
         >
           <Image src={navImage} borderRadius="16px" mb="28px" />
           <Flex flexDirection="column">
-            <Link w="100%" href="https://horizon-ui.com/pro">
+            <Link w="100%" href="https://github.com/aryaan">
               <Button w="100%" h="44px" mb="10px" variant="brand">
-                Buy Horizon UI PRO
+                Get Aryaan Pro
               </Button>
             </Link>
-            <Link
-              w="100%"
-              href="https://horizon-ui.com/documentation/docs/introduction"
-            >
+            <Link w="100%" href="https://github.com/aryaan">
               <Button
                 w="100%"
                 h="44px"
@@ -202,10 +199,7 @@ export default function HeaderLinks(props) {
                 See Documentation
               </Button>
             </Link>
-            <Link
-              w="100%"
-              href="https://github.com/horizon-ui/horizon-ui-chakra-ts"
-            >
+            <Link w="100%" href="https://github.com/aryaan">
               <Button
                 w="100%"
                 h="44px"
@@ -213,7 +207,7 @@ export default function HeaderLinks(props) {
                 color={textColor}
                 bg="transparent"
               >
-                Try Horizon Free
+                Try Aryaan Free
               </Button>
             </Link>
           </Flex>
@@ -243,7 +237,7 @@ export default function HeaderLinks(props) {
           <Avatar
             _hover={{ cursor: 'pointer' }}
             color="white"
-            name="Adela Parkson"
+            name="Aryaan Developer"
             bg="#11047A"
             size="sm"
             w="40px"
@@ -270,7 +264,7 @@ export default function HeaderLinks(props) {
               fontWeight="700"
               color={textColor}
             >
-              👋&nbsp; Hey, Adela
+              👋&nbsp; Hey, Aryaan
             </Text>
           </Flex>
           <Flex flexDirection="column" p="10px">
